@@ -8,7 +8,7 @@ namespace _29._08_Figure
 {
     public abstract class Figure
     {
-       
+       //Черепенников Игорь добавил коментарий 
         public abstract double Area();
         public abstract double Perimetr();
         public abstract void PrintFigure();
